@@ -1,1 +1,4 @@
 # student-alcohol-consumption
+
+## Abstract
+Education is an integral factor in development or upliftment of any social group. It is also an essential part of any humans’ life: that shapes their personal outlook and opinions and helps them progress. That is why the dataset “Student Alcohol Consumption” was chosen by this group for our hackathon. This data comprises of drinking habits, grades, demographic information and other social factors (parents’ education, family size, relationship status, etc) for school-going students in Portugal from 2005-2006. Eurostat’s “Early leavers from education and training by sex and labour status” data from 2007 shows Portugal’s early leaver from education rate as 36.5% against European Union’s average of 15%, thus emphasizing the significance of this subject and its analysis.
